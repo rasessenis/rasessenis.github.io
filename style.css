@@ -2,5 +2,15 @@ h1 {
 color: blue;
 border: 1px solid black;
 font-family: Roboto;
+font-size:30px;
+}
+.header{
+position:fixed;
+text-align:center;
+font-family:Roboto;
+
+}
+h2{
+font-size:12px;
 }
 
