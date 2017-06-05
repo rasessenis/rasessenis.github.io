@@ -13,6 +13,7 @@ font-color: Red;
 min-width: 1000px;
 max-width: 400px;
 min-height: 1000px;
+overflow: scroll;
 
 }
 h2 {
