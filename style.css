@@ -2,13 +2,13 @@ h1 {
 color: green;
 border: 1px solid black;
 font-family: Roboto;
-font-size:30px;
+font-size: 30px;
 }
 .header {
 background: url("http://wallpapercave.com/wp/xTkHBfj.jpg") no-repeat center bottom;
-position:fixed;
-text-align:center;
-font-family:Roboto;
+position: fixed;
+text-align: center;
+font-family: Roboto;
 
 min-width: 1000px;
 max-width: 400px;
@@ -18,7 +18,7 @@ margin: 0 auto;
 
 }
 h2 {
-font-size:12px;
-font-color:green;
+font-size: 12px;
+color: green;
 }
 
