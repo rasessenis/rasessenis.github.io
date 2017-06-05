@@ -4,13 +4,13 @@ border: 1px solid black;
 font-family: Roboto;
 font-size:30px;
 }
-.header{
+.header {
 position:fixed;
 text-align:center;
 font-family:Roboto;
 
 }
-h2{
+h2 {
 font-size:12px;
 font-color:green;
 }
