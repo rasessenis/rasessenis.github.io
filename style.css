@@ -1,5 +1,5 @@
 h1 {
-color: red;
+color: green;
 border: 1px solid black;
 font-family: Roboto;
 font-size:30px;
@@ -9,11 +9,12 @@ background: url("http://wallpapercave.com/wp/xTkHBfj.jpg") no-repeat center bott
 position:fixed;
 text-align:center;
 font-family:Roboto;
-font-color: Red;
+
 min-width: 1000px;
 max-width: 400px;
 min-height: 1000px;
 overflow: scroll;
+margin: 0 auto;
 
 }
 h2 {
