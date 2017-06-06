@@ -1,37 +1,73 @@
+
 h1 {
-
-
 font-family: helvetica;
 font-size: 45px;
 text-align: center;
 padding-right: 20px;
 padding-top: 175px;
-font-weight: 900;
-
-
-  
+font-weight: 900;  
 }
-.header {
-background: url("http://i1262.photobucket.com/albums/ii619/rasessenis/webback_zps1dpyofa4.jpg?t=1496622097") center top;
 
+.header {
+background: url("http://i1262.photobucket.com/albums/ii619/rasessenis/webback_zps1dpyofa4.jpg?t=1496622097");
+  background-position:center top;
 text-align: center;
 font-family: Roboto;
 width: 100%;
-height: 600px;
+height: 590px;
 background-repeat: no-repeat;
-  background-size: 1400px;
-
+background-size: 1400px;
 color: rgb(102, 51, 0);
-
-  
-
-
+  display: block;
+  margin: -30px auto;
+  vertical-align: top;
 }
+
 h2 {
 font-size: 30px;
 font-family: helvetica;
 padding-top: 0px;
 padding-left: 130px;
-font-weight: 400;
+font-weight: 700;
 }
+
+h3 {
+  display: inline-block;
+  color: black;
+  z-index: 3;
+  text-align: center;
+  width: 25%;
+  padding: 20px 0;
+  margin: -10px 0 0 0;
+}
+
+.navbar{
+  
+  width: 100%;
+  
+}
+
+.background{
+background-color: black;
+}
+
+#robwhitaker {
+ color: color: rgb(102, 51, 0);
+  background-color: rgb(198,162,102);
+}
+
+#projects{
+  
+  background-color: rgb(23,143,134);
+}
+
+#skills{
+   background-color: rgb(162,75,4);
+}
+
+#personallog{
+   
+  background-color: rgb(47,90,203);
+}
+
 
