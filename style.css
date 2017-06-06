@@ -37,18 +37,19 @@ h3 {
   z-index: 3;
   text-align: center;
   width: 25%;
+  min-width: 100px;
   padding: 2rem 0;
   margin: -1rem 0 0 0;
+  font-family: helvetica;
 }
 
 .navbar{
-  
   width: 100%;
-  
 }
 
 .background{
-background-color: rgb(198,162,102);
+/*background-color: rgb(198,162,102);*/
+  background-color: blue;
   
 }
 
@@ -58,7 +59,6 @@ background-color: rgb(198,162,102);
 }
 
 #projects{
-  
   background-color: rgb(23,143,134);
 }
 
@@ -67,7 +67,6 @@ background-color: rgb(198,162,102);
 }
 
 #personallog{
-   
   background-color: rgb(47,90,203);
 }
 
@@ -76,4 +75,12 @@ p {
   padding-top: 2rem;
 }
 
-
+@media only screen and (max-width: 480px) {
+  h3 {
+    ;
+  }
+  .header{
+    background-size: 40rem;
+  }
+  
+}
